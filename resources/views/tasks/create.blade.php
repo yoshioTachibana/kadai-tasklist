@@ -8,6 +8,7 @@
     
         {!! Form::label('content', 'タスク：') !!}
         {!! Form::text('content') !!}
+        {!! Form::text('status') !!}
         
         {!! Form::submit('投稿') !!}
         
