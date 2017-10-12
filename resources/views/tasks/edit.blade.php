@@ -21,7 +21,7 @@
                     {!! Form::text('status') !!}
                 </div>
         
-                {!! Form::submit('更新', ['class' => 'btn btn-default']) !!}
+                {!! Form::submit('更新', ['class' => 'btn btn-secondary']) !!}
         
             {!! Form::close() !!}
             
